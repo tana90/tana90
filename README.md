@@ -8,4 +8,4 @@
 
 ### Languages and Tools:
 <a href="https://swift.org"><img src="https://developer.apple.com/swift/images/swift-logo.svg?style=flat" width="38" height="38" style="vertical-align:middle"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png?style=flat" width="38" height="38" style="vertical-align:middle"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png?style=flat" width="42" height="42" style="vertical-align:middle"></a>
