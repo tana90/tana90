@@ -1,4 +1,4 @@
-# Hello, I am TANA 👋
+## Hello, I am TANA 👋
 
 - 📙 Focusing on Swift & iOS
 - 🔨 Creator of applications and frameworks
