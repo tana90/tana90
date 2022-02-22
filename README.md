@@ -7,4 +7,4 @@
 - 📫 You can reach me at tudoroctavianana@icloud.com or via linkedin.com/in/tudoroctavianana
 
 ### Languages and Tools:
-<a href="https://swift.org"><img src="https://developer.apple.com/swift/images/swift-logo.svg?style=flat"></a>
+<a href="https://swift.org"><img src="https://developer.apple.com/swift/images/swift-logo.svg?style=flat" width="64" height="64"></a>
