@@ -7,5 +7,5 @@
 - 📫 You can reach me at tudoroctavianana@icloud.com or via linkedin.com/in/tudoroctavianana
 
 ### Languages and Tools:
-<a href="https://swift.org"><img src="https://developer.apple.com/swift/images/swift-logo.svg?style=flat" width="40" height="40" style="vertical-align:top"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png?style=flat" width="48" height="48" style="vertical-align:bottom"></a>
+<a href="https://swift.org"><img src="https://developer.apple.com/swift/images/swift-logo.svg?style=flat" width="38" height="38" style="vertical-align:middle"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png?style=flat" width="38" height="38" style="vertical-align:middle"></a>
